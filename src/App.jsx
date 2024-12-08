@@ -1,13 +1,14 @@
 
-import './App.module.css'
+import style from "./App.module.css";
+import Navbar from "./component/Navbar/Navbar";
 
 function App() {
 
 
   return (
     <>
-      <div>
-        hellow
+      <div className={style.App}>
+        <Navbar />
       </div>
 
     </>
