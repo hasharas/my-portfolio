@@ -10,11 +10,25 @@
   margin: 0 10%;
 }
 
-/* .title {
+.title {
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-text);
 }
 
 .menu {
+  display: flex;
 }
 
 .menuItem {
-} */
+  display: flex;
+  gap: 47px;
+  list-style: none;
+}
+
+.menuItem a {
+  font-size: 25px;
+  color: var(--color-text);
+  text-decoration: none;
+}
