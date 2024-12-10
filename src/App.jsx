@@ -1,5 +1,6 @@
 
 import style from "./App.module.css";
+import Hero from "./component/Hero/Hero";
 import Navbar from "./component/Navbar/Navbar";
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       <div className={style.App}>
         <Navbar />
+        <Hero />
       </div>
 
     </>
