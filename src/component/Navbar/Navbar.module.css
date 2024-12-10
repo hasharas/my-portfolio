@@ -73,3 +73,18 @@
     z-index: 1;
   }
 }
+
+/* large screen */
+@media screen and (min-width: 831px) {
+  .menuBtn {
+    display: none;
+  }
+
+  .menuItem {
+    display: flex;
+    flex-direction: row;
+    gap: 47px;
+    background: none;
+    box-shadow: none;
+  }
+}
