@@ -2,9 +2,12 @@ import React from 'react';
 
 const Experience = () => {
       return (
-            <div>
+            <section>
+                  <h2>
+                        Experience
+                  </h2>
+            </section>
 
-            </div>
       );
 }
 
