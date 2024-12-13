@@ -22,5 +22,13 @@
       {
             "title": "MongoDB",
             "imageSrc": "src/assets/skills/mongodb.png"
+      },
+      {
+            "title": "GraphQL",
+            "imageSrc": "src/assets/skills/graphql.png"
+      },
+      {
+            "title": "MongoDB",
+            "imageSrc": "src/assets/skills/mongodb.png"
       }
 ]

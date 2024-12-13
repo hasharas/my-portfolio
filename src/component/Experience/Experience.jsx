@@ -5,36 +5,37 @@ import style from './Experience.module.css';
 
 const Experience = () => {
       return (
-            <section id="experince">
+            <section id="experince" className={style.container}>
 
-                  <h2>
+                  <h2 className={style.title}>
                         Experience
                   </h2>
-                  <div>
-                        <div>
+                  <div className={style.content}>
+                        <div className={style.skills}>
                               {skills.map((skill, id) => {
                                     return (
-                                          <div key={id}>
-                                                <div>
+                                          <div key={id} className={style.skill}>
+                                                <div className={style.skillImageContainer}>
                                                       <img src={skill.imageSrc}
-                                                            alt={skill.title} />
+                                                            alt={skill.title}
+                                                            className={style.skillImage} />
                                                 </div>
-                                                <div>
-                                                      <p>{skill.title}</p>
+                                                <div className={style.skillTitlediv}>
+                                                      <p className={style.skillTitle}>{skill.title}</p>
                                                 </div>
                                           </div>
 
                                     )
                               })}
                         </div>
-                        <ul>
+                        <ul className={style.history}>
                               {
                                     history.map((historyItem, id) => {
                                           return (
-                                                <li key={id}>
+                                                <li key={id} className={style.historyItem}>
 
                                                       <img src={historyItem.imageSrc} alt={`${historyItem.organisation} Logo`} />
-                                                      <div>
+                                                      <div className={style.historyItemDetails}>
                                                             <h3>
                                                                   {`${historyItem.role}, ${historyItem.organisation}`}
                                                             </h3>
