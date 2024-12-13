@@ -1,7 +1,7 @@
 [
       {
             "role": "Intern Software Engineer",
-            "organisation": "skills/html.png",
+            "organisation": "",
             "startDate": "Aug, 2024",
             "endDate": "Present",
             "experiences": [
@@ -9,6 +9,30 @@
                   "Complete Event Ticket booking App",
                   "Work with Aws S3"
             ],
-            "imageSrc": "history/google.png"
+            "imageSrc": "src/assets/history/google.png"
+      },
+      {
+            "role": "Intern Software Engineer",
+            "organisation": "microsoft",
+            "startDate": "Aug, 2024",
+            "endDate": "Present",
+            "experiences": [
+                  "Complete E commerce app",
+                  "Complete Event Ticket booking App",
+                  "Work with Aws S3"
+            ],
+            "imageSrc": "src/assets/history/microsoft.png"
+      },
+      {
+            "role": "Intern Software Engineer",
+            "organisation": "netflix",
+            "startDate": "Aug, 2024",
+            "endDate": "Present",
+            "experiences": [
+                  "Complete E commerce app",
+                  "Complete Event Ticket booking App",
+                  "Work with Aws S3"
+            ],
+            "imageSrc": "src/assets/history/netflix.png"
       }
 ]
