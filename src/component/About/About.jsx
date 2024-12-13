@@ -7,7 +7,7 @@ import uiIcon from "../../assets/about/uiIcon.png";
 
 const About = () => {
       return (
-            <section className={style.container}>
+            <section className={style.container} id='about'>
                   <h2 className={style.title}>
                         About
                   </h2>
@@ -15,7 +15,7 @@ const About = () => {
                         <img src={men2} alt="lap with me" className={style.aboutImg} />
                         <ul className={style.aboutItems}>
                               <li className={style.aboutItem}>
-                                    <img src={cursorIcon} alt="curson image" />
+                                    <img src={cursorIcon} alt="cursor image" />
                                     <div className={style.aboutItemText}>
                                           <h3>Frontend Developer</h3>
                                           <p>
