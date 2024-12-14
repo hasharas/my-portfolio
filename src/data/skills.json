@@ -5,30 +5,82 @@
       },
       {
             "title": "CSS",
-            "imageSrc": "src/assets/skills/css.png"
+            "imageSrc": "src/assets/skills/CSS3.png"
       },
       {
-            "title": "React",
-            "imageSrc": "src/assets/skills/react.png"
+            "title": "C++",
+            "imageSrc": "src/assets/skills/C++.png"
+      },
+      {
+            "title": "Docker",
+            "imageSrc": "src/assets/skills/Docker.png"
+      },
+      {
+            "title": "Firebase",
+            "imageSrc": "src/assets/skills/Firebase.png"
+      },
+      {
+            "title": "GitHub",
+            "imageSrc": "src/assets/skills/GitHub.png"
+      },
+      {
+            "title": "GitLab",
+            "imageSrc": "src/assets/skills/GitLab.png"
+      },
+      {
+            "title": "Java",
+            "imageSrc": "src/assets/skills/Java.png"
+      },
+      {
+            "title": "JavaScript",
+            "imageSrc": "src/assets/skills/JavaScript.png"
+      },
+      {
+            "title": "MongoDB",
+            "imageSrc": "src/assets/skills/MongoDB.png"
+      },
+      {
+            "title": "MySQL",
+            "imageSrc": "src/assets/skills/MySQL.png"
       },
       {
             "title": "Node",
-            "imageSrc": "src/assets/skills/node.png"
+            "imageSrc": "src/assets/skills/Node.png"
       },
       {
-            "title": "GraphQL",
-            "imageSrc": "src/assets/skills/graphql.png"
+            "title": "Nest",
+            "imageSrc": "src/assets/skills/Nest.png"
       },
       {
-            "title": "MongoDB",
-            "imageSrc": "src/assets/skills/mongodb.png"
+            "title": "PostgresSQL",
+            "imageSrc": "src/assets/skills/PostgresSQL.png"
       },
       {
-            "title": "GraphQL",
-            "imageSrc": "src/assets/skills/graphql.png"
+            "title": "Postman",
+            "imageSrc": "src/assets/skills/Postman.png"
       },
       {
-            "title": "MongoDB",
-            "imageSrc": "src/assets/skills/mongodb.png"
+            "title": "Bootstrap",
+            "imageSrc": "src/assets/skills/ReactBootstrap.png"
+      },
+      {
+            "title": "Redux",
+            "imageSrc": "src/assets/skills/Redux.png"
+      },
+      {
+            "title": "TailwindCSS",
+            "imageSrc": "src/assets/skills/TailwindCSS.png"
+      },
+      {
+            "title": "TypeScript",
+            "imageSrc": "src/assets/skills/TypeScript.png"
+      },
+      {
+            "title": "VSCode",
+            "imageSrc": "src/assets/skills/VSCode.png"
+      },
+      {
+            "title": "Vite",
+            "imageSrc": "src/assets/skills/Vite.png"
       }
 ]
