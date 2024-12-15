@@ -1,0 +1,74 @@
+[
+      {
+            "title": "project A",
+            "imageSrc": "src/assets/project/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "express",
+                  "node"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://www.github.com"
+      },
+      {
+            "title": "project A",
+            "imageSrc": "src/assets/project/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "express",
+                  "node"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://www.github.com"
+      },
+      {
+            "title": "project A",
+            "imageSrc": "src/assets/project/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "express",
+                  "node"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://www.github.com"
+      },
+      {
+            "title": "project A",
+            "imageSrc": "src/assets/project/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "express",
+                  "node"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://www.github.com"
+      },
+      {
+            "title": "project A",
+            "imageSrc": "src/assets/project/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "express",
+                  "node"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://www.github.com"
+      },
+      {
+            "title": "project A",
+            "imageSrc": "src/assets/project/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "express",
+                  "node"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://www.github.com"
+      }
+]
