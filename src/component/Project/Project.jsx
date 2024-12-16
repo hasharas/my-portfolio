@@ -5,7 +5,7 @@ import ProjectCart from './ProjectCart';
 
 const Project = () => {
       return (
-            <section className={style.container} >
+            <section className={style.container} id="project">
                   <h2 className={style.title}>Projects</h2>
                   <div className={style.projects}>
                         {projects.map((project, id) => {
