@@ -34,7 +34,8 @@ const Experience = () => {
                                           return (
                                                 <li key={id} className={style.historyItem}>
 
-                                                      <img src={historyItem.imageSrc} alt={`${historyItem.organisation} Logo`} />
+                                                      <a href="https://techwavedy.com/"><img src={historyItem.imageSrc} alt={`${historyItem.organisation} Logo`} /></a>
+
                                                       <div className={style.historyItemDetails}>
                                                             <h3>
                                                                   {`${historyItem.role}, ${historyItem.organisation}`}

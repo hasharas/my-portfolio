@@ -6,7 +6,7 @@ import linkInIcon from "../../assets/contact/linkedinIcon.png"
 
 const Contact = () => {
       return (
-            <footer className={style.container}>
+            <footer className={style.container} id='contact'>
                   <div className={style.text}>
                         <h2 >
                               Contact
@@ -23,11 +23,11 @@ const Contact = () => {
                         </li>
                         <li className={style.link}>
                               <img src={linkInIcon} alt="LinkedIn" />
-                              <a href="">hasharamsankalpam@gmail.com</a>
+                              <a href="https://www.linkedin.com/in/hashara-sankalpa/">hashara-sankalpa</a>
                         </li>
                         <li className={style.link}>
                               <img src={gitIcon} alt="Github" />
-                              <a href="">hasharamsankalpam@gmail.com</a>
+                              <a href="https://github.com/hasharas">hasharas</a>
                         </li>
                   </ul>
             </footer>

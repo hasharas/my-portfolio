@@ -35,10 +35,22 @@
   color: var(--color-text);
 }
 
+.titleSecond {
+  /* display: flex;
+  justify-content: center;
+  text-align: center; */
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 46px;
+  font-weight: 700px;
+  margin-bottom: 20px;
+  font-family: var(--font-roboto);
+}
+
 .description {
   font-size: 30px;
   font-family: var(--font-roboto);
   margin-bottom: 52px;
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .contactBtn {

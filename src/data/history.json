@@ -5,34 +5,12 @@
             "startDate": "Aug, 2024",
             "endDate": "Present",
             "experiences": [
-                  "Complete E commerce app",
+                  "Complete E commerce app(For store)",
                   "Complete Event Ticket booking App",
-                  "Work with Aws S3"
+                  "Sample app like Bar api,U tube app build",
+                  "Landing page build",
+                  "work with AWS s3,FireBase"
             ],
-            "imageSrc": "src/assets/history/google.png"
-      },
-      {
-            "role": "Intern Software Engineer",
-            "organisation": "microsoft",
-            "startDate": "Aug, 2024",
-            "endDate": "Present",
-            "experiences": [
-                  "Complete E commerce app",
-                  "Complete Event Ticket booking App",
-                  "Work with Aws S3"
-            ],
-            "imageSrc": "src/assets/history/microsoft.png"
-      },
-      {
-            "role": "Intern Software Engineer",
-            "organisation": "netflix",
-            "startDate": "Aug, 2024",
-            "endDate": "Present",
-            "experiences": [
-                  "Complete E commerce app",
-                  "Complete Event Ticket booking App",
-                  "Work with Aws S3"
-            ],
-            "imageSrc": "src/assets/history/netflix.png"
+            "imageSrc": "https://techwavedy.com/wp-content/uploads/2024/08/profile_pic-removebg-preview.png"
       }
 ]

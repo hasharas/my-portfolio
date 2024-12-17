@@ -60,7 +60,7 @@
 }
 .historyItem {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   gap: 17px;
   background: #19376d;
@@ -69,7 +69,10 @@
   padding: 24px;
 }
 .historyItem img {
-  width: 50px;
+  width: 200px;
+}
+.historyItem img:hover {
+  border: 1px solid #19376d;
 }
 .historyItemDetails {
   font-family: var(--font-roboto);

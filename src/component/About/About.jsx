@@ -1,9 +1,9 @@
 import React from 'react';
 import style from './About.module.css';
-import men2 from "../../assets/about/hasara.png";
+import men2 from "../../assets/about/men3.png";
 import cursorIcon from "../../assets/about/cursorIcon.png";
 import serverIcon from "../../assets/about/serverIcon.png";
-import uiIcon from "../../assets/about/uiIcon.png";
+import dbIcon from "../../assets/about/uiIcon.png";
 
 const About = () => {
       return (
@@ -19,7 +19,7 @@ const About = () => {
                                     <div className={style.aboutItemText}>
                                           <h3>Frontend Developer</h3>
                                           <p>
-                                                I'm a frontend developer with experience in bulding responsive and optimized sites
+                                                I'm a frontend developer specializing in crafting responsive, optimized, and visually engaging web experiences.
                                           </p>
                                     </div>
                               </li>
@@ -28,16 +28,16 @@ const About = () => {
                                     <div className={style.aboutItemText}>
                                           <h3>Backend Developer</h3>
                                           <p>
-                                                I have experience developing fast and backend and optimized back-end systems and Apis
+                                                I have experience building efficient, scalable back-end systems and APIs optimized for performance and reliability
                                           </p>
                                     </div>
                               </li>
                               <li className={style.aboutItem}>
-                                    <img src={uiIcon} alt="database image" />
+                                    <img src={dbIcon} alt="database image" />
                                     <div className={style.aboutItemText}>
                                           <h3>Data Bases</h3>
                                           <p>
-                                                I have experience work with database and AWS s3..
+                                                I have experience working with databases, ensuring efficient storage, retrieval, and optimization.
                                           </p>
                                     </div>
                               </li>
