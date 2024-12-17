@@ -1,72 +1,113 @@
 [
       {
-            "title": "project A",
-            "imageSrc": "src/assets/projects/project.png",
+            "title": "Food-Delivery-app",
+            "imageSrc": "src/assets/projects/foodApp1.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
                   "express",
-                  "node"
+                  "node",
+                  "MongoDB",
+                  "CSS",
+                  "MERNstack",
+                  "HTML"
             ],
             "demo": "https://www.example.com",
-            "source": "https://www.github.com"
+            "source": "https://github.com/hasharas/Food-Delivery-app"
+      },
+      {
+            "title": "Bar APP",
+            "imageSrc": "src/assets/projects/barApi.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "Tailwind",
+                  "Vite",
+                  "JavaScript",
+                  "HTML"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/hasharas/Bar-Api"
+      },
+      {
+            "title": "Student-Manage",
+            "imageSrc": "src/assets/projects/project.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "React",
+                  "JavaScript",
+                  "TypeScript",
+                  "Tailwind CSS",
+                  "HTML",
+                  "nestJs",
+                  "MongoDB",
+                  "Docker"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/hasharas/student-manage-back"
+      },
+      {
+            "title": "Landing Page 1",
+            "imageSrc": "src/assets/projects/Land.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "Tailwind CSS",
+                  "HTML",
+                  "JavaScript"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/hasharas/Landing-page"
+      },
+      {
+            "title": "Salary Calculator",
+            "imageSrc": "src/assets/projects/Cal.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "React",
+                  "Tailwind",
+                  "JavaScript",
+                  "HTML",
+                  "CSS"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/hasharas/salary-calculator"
+      },
+      {
+            "title": "Finance Land",
+            "imageSrc": "src/assets/projects/datafinance.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "React",
+                  "JavaScript",
+                  "Tailwind CSS",
+                  "HTML"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/hasharas/data-finance"
+      },
+      {
+            "title": "Movie API",
+            "imageSrc": "src/assets/projects/movi.png",
+            "description": "this id project made to learn the latest",
+            "skills": [
+                  "react",
+                  "JavaScript",
+                  "HTML",
+                  "CSS"
+            ],
+            "demo": "https://www.example.com",
+            "source": "https://github.com/hasharas/react-movie"
       },
       {
             "title": "project A",
-            "imageSrc": "src/assets/projects/project.png",
+            "imageSrc": "src/assets/projects/movi.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
-                  "express",
-                  "node"
-            ],
-            "demo": "https://www.example.com",
-            "source": "https://www.github.com"
-      },
-      {
-            "title": "project A",
-            "imageSrc": "src/assets/projects/project.png",
-            "description": "this id project made to learn the latest",
-            "skills": [
-                  "react",
-                  "express",
-                  "node"
-            ],
-            "demo": "https://www.example.com",
-            "source": "https://www.github.com"
-      },
-      {
-            "title": "project A",
-            "imageSrc": "src/assets/projects/project.png",
-            "description": "this id project made to learn the latest",
-            "skills": [
-                  "react",
-                  "express",
-                  "node"
-            ],
-            "demo": "https://www.example.com",
-            "source": "https://www.github.com"
-      },
-      {
-            "title": "project A",
-            "imageSrc": "src/assets/projects/project.png",
-            "description": "this id project made to learn the latest",
-            "skills": [
-                  "react",
-                  "express",
-                  "node"
-            ],
-            "demo": "https://www.example.com",
-            "source": "https://www.github.com"
-      },
-      {
-            "title": "project A",
-            "imageSrc": "src/assets/projects/project.png",
-            "description": "this id project made to learn the latest",
-            "skills": [
-                  "react",
-                  "express",
-                  "node"
+                  "JavaScript",
+                  "HTML",
+                  "CSS"
             ],
             "demo": "https://www.example.com",
             "source": "https://www.github.com"
