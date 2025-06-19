@@ -1,7 +1,7 @@
 [
       {
             "title": "Food-Delivery-app",
-            "imageSrc": "src/assets/projects/foodApp1.png",
+            "imageSrc": "/assets/projects/foodApp1.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
@@ -17,7 +17,7 @@
       },
       {
             "title": "Bar APP",
-            "imageSrc": "src/assets/projects/barApi.png",
+            "imageSrc": "/assets/projects/barApi.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
@@ -31,7 +31,7 @@
       },
       {
             "title": "Student-Manage",
-            "imageSrc": "src/assets/projects/project.png",
+            "imageSrc": "/assets/projects/project.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "React",
@@ -39,7 +39,7 @@
                   "TypeScript",
                   "Tailwind CSS",
                   "HTML",
-                  "nestJs",
+                  "NestJs",
                   "MongoDB",
                   "Docker"
             ],
@@ -47,8 +47,8 @@
             "source": "https://github.com/hasharas/student-manage-back"
       },
       {
-            "title": "Landing Page 1",
-            "imageSrc": "src/assets/projects/Land.png",
+            "title": "https://vertual-land-page.vercel.app/",
+            "imageSrc": "/assets/projects/Land.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
@@ -61,7 +61,7 @@
       },
       {
             "title": "Salary Calculator",
-            "imageSrc": "src/assets/projects/Cal.png",
+            "imageSrc": "/assets/projects/Cal.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "React",
@@ -75,7 +75,7 @@
       },
       {
             "title": "Finance Land",
-            "imageSrc": "src/assets/projects/datafinance.png",
+            "imageSrc": "/assets/projects/datafinance.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "React",
@@ -83,12 +83,12 @@
                   "Tailwind CSS",
                   "HTML"
             ],
-            "demo": "https://www.example.com",
+            "demo": "https://datafinance123.netlify.app/",
             "source": "https://github.com/hasharas/data-finance"
       },
       {
-            "title": "Movie API",
-            "imageSrc": "src/assets/projects/movi.png",
+            "title": "https://movie-explorer-hazel.vercel.app/",
+            "imageSrc": "/assets/projects/movi.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
@@ -101,7 +101,7 @@
       },
       {
             "title": "project A",
-            "imageSrc": "src/assets/projects/movi.png",
+            "imageSrc": "/assets/projects/movi.png",
             "description": "this id project made to learn the latest",
             "skills": [
                   "react",
